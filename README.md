@@ -24,7 +24,7 @@ Call the program by running "./" + name of the coding file + parameters
 eg.
 ```
 cd /Users/emily/Desktop
-chmod a + x tool.py
+chmod a+x tool.py
 ./tool.py 2 9 17
 ```
 
