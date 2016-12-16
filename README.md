@@ -15,7 +15,7 @@ open the terminal and cd to the directory that the projects are in
 set file permission by running "chmod a+x" + file name
 eg.
 ```
-chmod a + x tool.py
+chmod a+x tool.py
 ```
 Call the program by running "./" + name of the coding file + parameters
 (There are two coding files: 1A program is called "tool.py"; 1B program is called "tool2.py")
