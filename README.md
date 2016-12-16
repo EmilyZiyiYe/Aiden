@@ -12,7 +12,7 @@ Aiden project includes two coding chanllenge programs(1A & 1B), both of which ar
 
 Clone/download the projects to local computer
 open the terminal and cd to the directory that the projects are in 
-set file permission by running "chmod a + x" + file name
+set file permission by running "chmod a+x" + file name
 eg.
 ```
 chmod a + x tool.py
